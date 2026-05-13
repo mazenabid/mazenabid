@@ -1,6 +1,6 @@
 # Mazen Abid
 # About Me:
-I’m currently doing Software Engineering at the University of Regina and I’m looking for an internships before my capstone project<br> Fun fact: I'm a photographer and designer/illustrator. I love working with UX/UI and I have a profile on Behance!
+Software Engineer <br> Fun fact: I'm a photographer and designer/illustrator. I love working with UX/UI and I have a profile on Behance!
 
 
 ## 🌐 Socials:
